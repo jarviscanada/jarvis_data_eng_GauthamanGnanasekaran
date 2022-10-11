@@ -20,7 +20,7 @@ be the foreign and primary key of host_usage. Here is the table for the database
 <!-- Tables -->
 #### host_info
 |id|hostname|cpu_number|cpu_architecture|cpu_model|cpu_mhz|L2_cache|total_mem|timestamp|
-|--|--------|----------|----------|----------------|---------|---------|-------|--------|---------|---------|
+|--|--------|----------|----------|----------------|---------|---------|-------|--------|
 |PK|VARCHAR|INTEGER|VARCHAR|VARCHAR|NUMERIC|INTEGER|INTEGER|DATE|
 
 <!-- Tables -->
