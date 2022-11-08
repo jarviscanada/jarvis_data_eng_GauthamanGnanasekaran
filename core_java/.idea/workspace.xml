@@ -44,13 +44,26 @@
     &quot;last_opened_file_path&quot;: &quot;/home/centos/dev/jarvis_data_eng_Gauthaman/core_java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.JavaGrepImp">
+  <component name="RunManager" selected="Application.JDBCExecutor">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ca.jrvs.apps.practice.HelloWorld" />
       <module name="grep" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ca.jrvs.apps.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBCExecutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ca.jrvs.apps.jdbc.JDBCExecutor" />
+      <module name="jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.jrvs.apps.jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +99,14 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.JDBCExecutor" />
       <item itemvalue="Application.LambdaStreamExcImp" />
       <item itemvalue="Application.HelloWorld" />
       <item itemvalue="Application.JavaGrepImp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JDBCExecutor" />
         <item itemvalue="Application.JavaGrepImp" />
         <item itemvalue="Application.LambdaStreamExcImp" />
         <item itemvalue="Application.HelloWorld" />
