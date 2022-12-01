@@ -10,6 +10,16 @@
       <change afterPath="$PROJECT_DIR$/twitter/src/main/java/ca/jrvs/apps/twitter/example/DTO/Dividend.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/twitter/src/main/java/ca/jrvs/apps/twitter/example/DTO/Financial.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/twitter/src/main/java/ca/jrvs/apps/twitter/example/TwitterApiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/target/classes/ca/jrvs/apps/twitter/controller/TwitterController.class" beforeDir="false" afterPath="$PROJECT_DIR$/twitter/target/classes/ca/jrvs/apps/twitter/controller/TwitterController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/target/classes/ca/jrvs/apps/twitter/dao/TwitterDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/twitter/target/classes/ca/jrvs/apps/twitter/dao/TwitterDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/target/classes/ca/jrvs/apps/twitter/dao/helper/TwitterHttpHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/twitter/target/classes/ca/jrvs/apps/twitter/dao/helper/TwitterHttpHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/target/test-classes/ca/jrvs/apps/twitter/controller/TwitterControllerIntTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/target/test-classes/ca/jrvs/apps/twitter/controller/TwitterControllerUnitTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/target/test-classes/ca/jrvs/apps/twitter/dao/helper/TwitterHttpHelperTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/target/test-classes/ca/jrvs/apps/twitter/dao/helper/dao/TwitterDaoIntTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/target/test-classes/ca/jrvs/apps/twitter/dao/helper/dao/TwitterDaoUnitTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/target/test-classes/ca/jrvs/apps/twitter/service/TwitterServiceIntTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/target/test-classes/ca/jrvs/apps/twitter/service/TwitterServiceUnitTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +36,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/twitter/src/main/java/ca/jrvs/apps/twitter/example" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
