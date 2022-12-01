@@ -13,13 +13,13 @@ import org.apache.http.util.EntityUtils;
 
 public class TwitterApiTest {
   private static String CONSUMER_KEY = System.getenv("consumerKey");
-  //private static String CONSUMER_KEY = "e6da9fxbhAK0AyqEf87vbRvMB";
+
   private static String CONSUMER_SECRET = System.getenv("consumerSecret");
-  //private static String CONSUMER_SECRET = "dSpa2dV80HdVeRen82MNdW2r5jcWcKqHWiyKzhcfgc8b4kkyNn";
+
   private static String ACCESS_TOKEN = System.getenv("accessToken");
-  //private static String ACCESS_TOKEN = "1451354783315550212-m6nFFRZlllOyh32kzm6ZHrmcbOsawJ;";
+
   private static String TOKEN_SECRET = System.getenv("tokenSecret");
-  //private static String TOKEN_SECRET ="Xm5ApoA57Vx80NUAtFaYcIvSs7U5mNpAy5LYEdkqQWMzb";
+
 
   public static void main(String[] args) throws Exception {
 
