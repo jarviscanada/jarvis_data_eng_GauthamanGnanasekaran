@@ -47,7 +47,8 @@ docker run --rm \
 
 ---
 
-![UML Diagram.jpg](UML Diagram.jpg)
+![image](https://user-images.githubusercontent.com/46577410/205726442-d070e7aa-92a8-495f-ae7e-c22fa8e82a03.png)
+
 
 ### Components
 
