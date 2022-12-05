@@ -23,7 +23,8 @@ CustomerDTO. The repository pattern is in which data is behaved as collection. T
 
 ---
 
-![jdbc diagram.jpg](jdbc diagram.jpg)
+![image](https://user-images.githubusercontent.com/46577410/205726731-0157f28e-b02a-4e47-ba18-4a4500a615af.png)
+
 
 
 ## Design Patterns
