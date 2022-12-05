@@ -23,7 +23,12 @@ CustomerDTO. The repository pattern is in which data is behaved as collection. T
 
 ---
 
+<<<<<<< HEAD
 ![img.png](img.png)
+=======
+![image](https://user-images.githubusercontent.com/46577410/205726731-0157f28e-b02a-4e47-ba18-4a4500a615af.png)
+
+>>>>>>> 168963306663a2f1e226ba7fb2f760993bc46702
 
 
 ## Design Patterns
