@@ -6,9 +6,9 @@ I am a recent graduate and an avid learner that is always seeking ways to improv
 
 **Proficient:** Java, JavaScript, React, Agile/Scrum, Git
 
-**Competent:** Linux/Bash, Node.js, SpringBoot, HTML, CSS
+**Competent:** SQL, Node.js, SpringBoot, HTML, CSS
 
-**Familiar:** Docker, C, MatLab, fermentum, fermentum
+**Familiar:** Docker, C, MatLab, Python, Linux/Bash
 
 ## Jarvis Projects
 

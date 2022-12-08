@@ -19,7 +19,7 @@ skills:
     - Git
   # At least 5 skills
   competent:
-    - Linux/Bash
+    - SQL
     - Node.js
     - SpringBoot
     - HTML
@@ -29,8 +29,8 @@ skills:
     - Docker
     - C
     - MatLab
-    - fermentum
-    - fermentum
+    - Python
+    - Linux/Bash
 
 # List of Jarvis projects
 jarvis_projects:
