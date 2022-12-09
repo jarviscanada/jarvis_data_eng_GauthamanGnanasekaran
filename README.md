@@ -1,43 +1,33 @@
 # Gauthaman Gnanasekaran . Jarvis Consulting
 
-I am a recent graduate and an avid learner that is always seeking ways to improve my skill as a programmer. I graduated in Carleton University with a Bachelor's in Electrical Engineering. I also recently got a postgraduate certificate in Seneca for Database Application Development. My main strengths are learning/grasping new things quickly, being a team player that is committed to producing the best outcome for the team as a whole, and adapting to fast-paced environments.
+I am an Electrical Engineering graduate from Carleton University with a post-graduate certificate  in Database Application Development from Seneca with prior experience as a full-stack developer. Previously, I worked at Cancard INC as a full stack developer working on a database normalization project with a tight completion timeline. In doing so, I learned to thrive in a fast paced environment,  communicate with diverse stakeholders, and grasp new technical concepts quickly. I am hoping to find a place to develop my career further as a backend software engineer.
 
 ## Skills
 
 **Proficient:** Java, JavaScript, React, Agile/Scrum, Git
 
-**Competent:** Linux/Bash, Node.js, SpringBoot, HTML, CSS
+**Competent:** SQL, Node.js, SpringBoot, HTML, CSS
 
-**Familiar:** Docker, C, MatLab, fermentum, fermentum
+**Familiar:** Docker, C, MatLab, Python, Linux/Bash
 
 ## Jarvis Projects
 
 Project source code: [https://github.com/jarviscanada/jarvis_data_eng_GauthamanGnanasekaran](https://github.com/jarviscanada/jarvis_data_eng_GauthamanGnanasekaran)
 
 
-**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_GauthamanGnanasekaran/tree/master/linux_sql)]: This project will log the hardware specifications and the usage of the server to a database. The project uses bash script and CRON agent to log the usage every minute. This is then saved to a PostgreSQL container created using a docker image.
+**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_GauthamanGnanasekaran/tree/master/linux_sql)]: Cluster Monitoring Agent will monitor, and log reports of system hardware and performance for each Linux system on the server.The project uses bash script and CRON agent to log the usage every minute. This is then saved to a PostgreSQL container created using a docker image.
 
 **Core Java Apps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_GauthamanGnanasekaran/tree/master/core_java)]:
       
-  - Twitter App: This project used the Spring framework to perform CRUD operations by connecting to the Twitter API.The twitter API uses oAuth version 1.0. The initial connection was made with postman to check if the authentication and authorization process was working correctly. The initial Create, Read, Delete operations was performed using postman as well. The java application utilised the Model, View, Controller (MVC) Architecture. The connection was handled by the HttpHelper class, the business logic was handled by the Service class, the controller was used to handle the user input. This project was tested using mockito and JUnit. The application was packaged using maven and deployed using Docker.
-  - JDBC App: This project uses Java Datatabase Connectivity interface to connect the java program to API from Java to postgreSQL. The project also implements the Data Access Object patter for the API. The project used postgresSQL docker container, and dbeaver workbench which worked as the GUI. The java application was able to perform CRUD operations, and the driver class was used to handle the database connection.
-  - Grep App: This project will implement the same functionality as the grep bash command from Linux. The command will match patterns/lines in files recursively. The pattern that is inserted by user has to be Java REGEX. The application is packaged using Maven, and dockeried. It can be ran by JAR or by the docker container.
-
-**Springboot App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_GauthamanGnanasekaran/tree/master/springboot)]: Not Started
-
-**Python Data Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_GauthamanGnanasekaran/tree/master/python_data_anlytics)]: Not Started
-
-**Hadoop** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_GauthamanGnanasekaran/tree/master/hadoop)]: Not Started
-
-**Spark** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_GauthamanGnanasekaran/tree/master/spark)]: Not Started
-
-**Cloud/DevOps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_GauthamanGnanasekaran/tree/master/cloud_devops)]: Not Started
+  - Twitter App: This is a CRUD (Create, Read, Update, Delete) application that will create, delete, and read tweets. The project uses Spring Framework and Data Access Object (DAO) pattern to communicate and handle data with Twitters REST API. JUnit4 and Mockito were used to perform unit tests and integration tests. The application was packaged using Maven, and was uploaded to Docker Hub after being dockerized
+  - JDBC App: This is a Java Database Connectivity Application that was created to get familiar with DAO pattern and the JDBC API. The application can perform CRUD operations and queries. This application was built using Java, Maven, PostgresQL, and Docker.
+  - Grep App: This project emulates the same functionality as the grep bash command from Linux by recursively matching patterns/lines provided within files. The application is built using Java 8, packaged by Maven, and deployed to Dockerhub as an image.
 
 
 ## Highlighted Projects
-**Electrong Modelling** [[GitHub](https://github.com/GauthamanGnanasekaran/Electron-Modelling)]: Programmed a simulation of electrons interacting with each other in a closed environment with a population of 3000. This is then used to plot the Boltzman distribution of each electron.This is done using MATLAB 
+**Electron Modelling** [[GitHub](https://github.com/GauthamanGnanasekaran/Electron-Modelling)]: Programmed a simulation of electrons interacting with each other in a closed environment with a population of 3000. This is then used to plot the Boltzman distribution of each electron.This was done using MATLAB.
 
-**Capstone Project** [[GitHub](https://github.com/GauthamanGnanasekaran/Cap805-FrontEnd )]: Collaborated and created a web application with 2 other team members. This site allows users to host URL for their indie games. Registeres users will be able to like and dislike the game posted. The application has admin page, that allows to ban/delete/approve URL's that has been posted by the user.
+**Capstone Project** [[GitHub](https://github.com/GauthamanGnanasekaran/Cap805-FrontEnd )]: This project is an indie game hosting website where registered users can post their URL to the games they have created. The front-end was built using React and the backend was built using PostgreSQL and Express (NodeJS).
 
 
 ## Professional Experiences
@@ -54,5 +44,6 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_GauthamanG
 
 
 ## Miscellaneous
-- Basketball player
-- Competitive gaming
+- I love outdoor activities such as trail cycling, canoeing, and fishing
+- I am a huge fan of escape rooms and have fully solved 7 so far with my friends
+- I am a casual gamer and I like playing japanese RPGs and strategy games
