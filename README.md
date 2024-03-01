@@ -31,8 +31,8 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_GauthamanG
 
 
 ## Professional Experiences
-
-**Software Developer, Jarvis (2022-present)**: Developing and implementing projects using software and frameworks are currently used in the industry such as Java, GIT, SpringBoot, docker, PSQL, bash script, etc. Projects are implemented with agile framework in mind.
+**Software Developer, Teranet (2023-present)**: Worked on webservices team to implement services and fix defects. Worked on performance to reduce the time it takes to fetch large filings by 10%. 
+**Software Developer, Jarvis (2022-2023 (March))**: Developing and implementing projects using software and frameworks are currently used in the industry such as Java, GIT, SpringBoot, docker, PSQL, bash script, etc. Projects are implemented with agile framework in mind.
 
 **Full Stack Developer, Cancard INC (2022- April to June)**: Worked on normalizing the database and reducing data redundancy of Cancard's software as a service application. Contributed to the Model View Controller pattern for springboot.
 
