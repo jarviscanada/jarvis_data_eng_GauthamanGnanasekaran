@@ -1,10 +1,10 @@
 # Gauthaman Gnanasekaran . Jarvis Consulting
 
-I am an Electrical Engineering graduate from Carleton University with a post-graduate certificate  in Database Application Development from Seneca with prior experience as a full-stack developer. Previously, I worked at Cancard INC as a full stack developer working on a database normalization project with a tight completion timeline. In doing so, I learned to thrive in a fast paced environment,  communicate with diverse stakeholders, and grasp new technical concepts quickly. I am hoping to find a place to develop my career further as a backend software engineer.
+I am an Electrical Engineering graduate from Carleton University with a post-graduate certificate  in Database Application Development from Seneca with prior experience as a full-stack developer. I am currently working in Teranet as a software developer mainly prioritising in fixing defects for the application. Some of my noticeable acclompishments while working include increasing space and time complexity in fetching large filings. Previously, I worked at Cancard INC as a full stack developer working on a database normalization project with a tight completion timeline. In doing so, I learned to thrive in a fast paced environment,  communicate with diverse stakeholders, and grasp new technical concepts quickly. I am hoping to find a place to develop my career further as a backend software engineer.
 
 ## Skills
 
-**Proficient:** Java, JavaScript, React, Agile/Scrum, Git
+**Proficient:** Java, Groovy, JavaScript, React, Agile/Scrum, Git
 
 **Competent:** SQL, Node.js, SpringBoot, HTML, CSS
 
@@ -31,9 +31,10 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_GauthamanG
 
 
 ## Professional Experiences
-**Software Developer, Teranet (2023-present)**: Worked on webservices team to implement services and fix defects. Worked on performance to reduce the time it takes to fetch large filings by 10%. 
 
-**Software Developer, Jarvis (2022-2023 (March))**: Developing and implementing projects using software and frameworks are currently used in the industry such as Java, GIT, SpringBoot, docker, PSQL, bash script, etc. Projects are implemented with agile framework in mind.
+**Software Developer, Jarvis (2022-present)**: Developing and implementing projects using software and frameworks are currently used in the industry such as Java, GIT, SpringBoot, docker, PSQL, bash script, etc. Projects are implemented with agile framework in mind.
+
+**Software Developer, Teranet (2023-March)**: Worked on fixing multiple webservices and payment related defects. Increased performance of fetching large data by roughly 10-15%.
 
 **Full Stack Developer, Cancard INC (2022- April to June)**: Worked on normalizing the database and reducing data redundancy of Cancard's software as a service application. Contributed to the Model View Controller pattern for springboot.
 
