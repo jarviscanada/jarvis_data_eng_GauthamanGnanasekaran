@@ -5,7 +5,7 @@ github_repo_root_url: "https://github.com/jarviscanada/jarvis_data_eng_Gauthaman
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
-summary: "I am an Electrical Engineering graduate from Carleton University with a post-graduate certificate  in Database Application Development from Seneca with prior experience as a full-stack developer. Previously, I worked at Cancard INC as a full stack developer working on a database normalization project with a tight completion timeline. In doing so, I learned to thrive in a fast paced environment,  communicate with diverse stakeholders, and grasp new technical concepts quickly. I am hoping to find a place to develop my career further as a backend software engineer."
+summary: "I am an Electrical Engineering graduate from Carleton University with a post-graduate certificate  in Database Application Development from Seneca with prior experience as a full-stack developer. I am currently working in Teranet as a software developer mainly prioritising in fixing defects for the application. Some of my noticeable acclompishments while working include increasing space and time complexity in fetching large filings. Previously, I worked at Cancard INC as a full stack developer working on a database normalization project with a tight completion timeline. In doing so, I learned to thrive in a fast paced environment,  communicate with diverse stakeholders, and grasp new technical concepts quickly. I am hoping to find a place to develop my career further as a backend software engineer."
 
 # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
@@ -13,6 +13,7 @@ skills:
   # At least 5 skills
   proficient:
     - Java
+    - Groovy
     - JavaScript
     - React
     - Agile/Scrum
@@ -87,6 +88,10 @@ professional_experience:
     duration: "2022-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u
     description: "Developing and implementing projects using software and frameworks are currently used in the industry such as Java, GIT, SpringBoot, docker, PSQL, bash script, etc. Projects are implemented with agile framework in mind."
+  - title: "Software Developer"
+    company: "Teranet"
+    duration: "2023-March"
+    description: "Worked on fixing multiple webservices and payment related defects. Increased performance of fetching large data by roughly 10-15%."
   - title: "Full Stack Developer"
     company: "Cancard INC"
     duration: "2022- April to June"
