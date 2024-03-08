@@ -63,6 +63,12 @@
       "title": "Software Developer"
     },
     {
+      "company": "Teranet",
+      "description": "Worked on fixing multiple webservices and payment related defects. Increased performance of fetching large data by roughly 10-15%.",
+      "duration": "2023-March",
+      "title": "Software Developer"
+    },
+    {
       "company": "Cancard INC",
       "description": "Worked on normalizing the database and reducing data redundancy of Cancard's software as a service application. Contributed to the Model View Controller pattern for springboot.",
       "duration": "2022- April to June",
@@ -86,11 +92,12 @@
     ],
     "proficient": [
       "Java",
+      "Groovy",
       "JavaScript",
       "React",
       "Agile/Scrum",
       "Git"
     ]
   },
-  "summary": "I am an Electrical Engineering graduate from Carleton University with a post-graduate certificate  in Database Application Development from Seneca with prior experience as a full-stack developer. Previously, I worked at Cancard INC as a full stack developer working on a database normalization project with a tight completion timeline. In doing so, I learned to thrive in a fast paced environment,  communicate with diverse stakeholders, and grasp new technical concepts quickly. I am hoping to find a place to develop my career further as a backend software engineer."
+  "summary": "I am an Electrical Engineering graduate from Carleton University with a post-graduate certificate  in Database Application Development from Seneca with prior experience as a full-stack developer. I am currently working in Teranet as a software developer mainly prioritising in fixing defects for the application. Some of my noticeable acclompishments while working include increasing space and time complexity in fetching large filings. Previously, I worked at Cancard INC as a full stack developer working on a database normalization project with a tight completion timeline. In doing so, I learned to thrive in a fast paced environment,  communicate with diverse stakeholders, and grasp new technical concepts quickly. I am hoping to find a place to develop my career further as a backend software engineer."
 }
